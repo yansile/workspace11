@@ -6,6 +6,7 @@ public class Dome10 {
         for (int i =1; i<=5;i++){
            int j= i*i;
             System.out.println(j);
+            //test
         }
     }
 }
